@@ -1,0 +1,1 @@
+The goal of this project is to help out Sailor Motor's HR deparemnt in creating a model that can accurately discern which employees will stay and which will likely leave the company analyzing the overall satsifaction levels of the employees. 
